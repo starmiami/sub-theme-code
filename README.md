@@ -8,4 +8,5 @@
 * Python 3.12.12
  
 # Usage
-'/content/sample_data/minorR_dataset1_南.zip'をcolabにアップロードして解凍してください。
+'/content/sample_data/minorR_dataset1_南.zip'をcolabにアップロードして解凍。
+git clone https://github.com/starmiami/sub-theme-code.git でリポジトリをクローン。
